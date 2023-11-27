@@ -1,0 +1,2 @@
+flight time = 1.25 sec
+tab = 5.6 - 6.85
