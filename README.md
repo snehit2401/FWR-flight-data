@@ -1,2 +1,2 @@
-# ornithopter flight data
+# ornithopter design and analysis 
  research project
