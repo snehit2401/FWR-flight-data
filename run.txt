@@ -1,2 +1,2 @@
-cd C:\Users\ASUS\OneDrive - International Institute of Information Technology\Desktop\blackbox_decoder
+cd C:\Users\ASUS\OneDrive - International Institute of Information Technology\Desktop\ornithopter
 blackbox_decode
