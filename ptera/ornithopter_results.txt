@@ -1,0 +1,21 @@
+ornithopter: velocity = 5 m/s alpha = 10 deg 
+
+        Final Forces in Wind Axes:
+                Induced Drag:                   2.044 N
+                Side Force:                     0.0 N
+                Lift:                           4.875 N
+
+        Final Moments in Wind Axes:
+                Rolling Moment:                 0.0 Nm
+                Pitching Moment:                -0.102 Nm
+                Yawing Moment:                  0.0 Nm
+
+        Final Force Coefficients in Wind Axes:
+                CDi:                            -0.489
+                CY:                              0.0
+                CL:                              1.188
+
+        Final Moment Coefficients in Wind Axes:
+                Cl:                              0.0
+                Cm:                             -0.115
+                Cn:                              0.0
