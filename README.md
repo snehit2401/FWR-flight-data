@@ -18,5 +18,7 @@ extended-range configuration with a tandem propeller for higher
 flight velocity for longer range and endurance. To verify the
 results, we compare the flight test data of both power train
 configurations using the same FWR platform.
+
+Paper-https://ieeexplore.ieee.org/document/10633033
 Video-https://youtu.be/vqJ58n77Bsc
-Index Terms—Biomimetics, Flapping-Wing, Modular UAS
+Index-Biomimetics, Flapping-Wing, Modular UAS
